@@ -1,0 +1,8 @@
+site_name: Aurup Desktop
+repo_url: https://github.com/nellowint/aurup-desktop
+nav:
+  - Home: index.md
+  - About: about.md
+theme: 
+  name: readthedocs
+
